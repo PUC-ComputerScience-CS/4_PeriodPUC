@@ -1,0 +1,118 @@
+erro lexico na linha 1 - #
+1) 257 include
+2) 60 <
+3) 257 stdio
+erro lexico na linha 1 - .
+4) 257 h
+5) 62 >
+6) 271 void
+7) 257 boilWater
+8) 40 (
+9) 41 )
+10) 123 {
+11) 257 printf
+12) 40 (
+13) 272 "Step 1 Boil 2 cups of water.\n"
+14) 41 )
+15) 59 ;
+16) 125 }
+17) 271 void
+18) 257 addNoodles
+19) 40 (
+20) 41 )
+21) 123 {
+22) 257 printf
+23) 40 (
+24) 272 "Step 2 Add noodles to the boiling water.\n"
+25) 41 )
+26) 59 ;
+27) 125 }
+28) 271 void
+29) 257 stirNoodles
+30) 40 (
+31) 41 )
+32) 123 {
+33) 257 printf
+34) 40 (
+35) 272 "Step 3 Stir the noodles gently for 3 minutes.\n"
+36) 41 )
+37) 59 ;
+38) 125 }
+39) 271 void
+40) 257 addSeasoning
+41) 40 (
+42) 41 )
+43) 123 {
+44) 257 printf
+45) 40 (
+46) 272 "Step 4 Add seasoning packet to the noodles. Stir well.\n"
+47) 41 )
+48) 59 ;
+49) 125 }
+50) 271 void
+51) 257 serve
+52) 40 (
+53) 41 )
+54) 123 {
+55) 257 printf
+56) 40 (
+57) 272 "Step 5 Turn off heat and serve hot.\n"
+58) 41 )
+59) 59 ;
+60) 125 }
+61) 258 int
+62) 257 main
+63) 40 (
+64) 41 )
+65) 123 {
+66) 257 printf
+67) 40 (
+68) 272 "Instant Noodles Recipe\n"
+69) 41 )
+70) 59 ;
+71) 257 printf
+72) 40 (
+73) 272 "Ingredients Instant noodles, water, seasoning packet.\n\n"
+74) 41 )
+75) 59 ;
+76) 257 boilWater
+77) 40 (
+78) 41 )
+79) 59 ;
+80) 257 addNoodles
+81) 40 (
+82) 41 )
+83) 59 ;
+84) 257 stirNoodles
+85) 40 (
+86) 41 )
+87) 59 ;
+88) 257 addSeasoning
+89) 40 (
+90) 41 )
+91) 59 ;
+92) 257 serve
+93) 40 (
+94) 41 )
+95) 59 ;
+96) 257 printf
+97) 40 (
+98) 272 "\nEnjoy your meal! (And don't burn yourself!)\n"
+99) 41 )
+100) 59 ;
+101) 269 return
+102) 256 0
+103) 59 ;
+104) 125 }
+
+TABELA DE SIMBOLOS
+0 - include
+1 - stdio
+2 - h
+3 - boilWater
+4 - printf
+5 - addNoodles
+6 - stirNoodles
+7 - addSeasoning
+8 - serve
+9 - main
