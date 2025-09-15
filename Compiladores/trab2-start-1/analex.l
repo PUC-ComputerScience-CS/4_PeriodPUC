@@ -21,6 +21,9 @@ letra [a-zA-Z_]
 "="   {return '=';}
 ","   {return ',';}
 
+"["   {return '[';}
+"]"   {return ']';}
+
 \"([^\\\"]|\\.)*\"  {return STRING;}
 
 {dig}+("."{dig}+)?	{ return NUM;}
@@ -45,3 +48,4 @@ int token,i=1;
 	}
 	imprime();
 }
+
